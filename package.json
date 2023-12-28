@@ -1,8 +1,8 @@
 {
   "name": "octopus",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fast web crawler.",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsc --watch",
     "test": "jest",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/yuangwei/octopus.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "yuangwei<yuang.wya@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yuangwei/octopus/issues"
